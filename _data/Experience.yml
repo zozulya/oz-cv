@@ -1,22 +1,34 @@
-subject: Experiences
-listing-order: 2
+subject: Experience
+listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Google
+    role: Software Engineer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
-    description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
-    description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Various projects withing Google Assistant.
+    date: Oct. 2018 - May. 2023
+  - title: Zalando
+    role: Research Engineer
+    description:
+      - Implementation of the end-to-end machine learning system for personalzaion of Zalando's homepage.
+    date: Sep. 2016 - Sep. 2018
+  - title: 3T labs
+    role: Software Engineer
+    description:
+      - Development of the market leading graphical user interface for MongoDB database.
+    date: Aug 2015 - Jul. 2016
+  - title: Pixformance
+    role: Software Engineer
+    description:
+      - Development of award winning automated personal fitness training experience based on Kinect.
+    date: Aug 2013 - Jul. 2015
+  - title: EPFL
+    role: Postdoctoral Research Engineer
+    description:
+      - Research and implementation of algorithms in machine learning, natural language processing, using semantic databases for ScienceWISE.info project.
+    date: Jan 2012 - Mar 2013
+  - title: Crystalix GmbH
+    role: Research Engineer
+    description:
+      - Research and development of algorithms for 3D stereo-reconstruction of human faces.
+    date: Feb 2011 - Jan 2012

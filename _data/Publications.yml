@@ -3,9 +3,22 @@ listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
-    ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
+    ref:
+      - "[1] M. I. Gorenstein, M. Gaździcki, O. S. Zozulya, “Fluctuations of strangeness and deconfinement phase transition in nucleus–nucleus collisions,” Physics Letters B, vol. 585, no. 3-4, pp. 237–242, 2004."
+      - "[2] V. V. Begun, M. Gaździcki, M. I. Gorenstein, O. S. Zozulya, “Particle number fluctuations in a canonical ensemble,” Physical Review C, vol. 70, no. 3, p. 034901, 2004."
+      - "[3] V. V. Begun, M. I. Gorenstein, A. P. Kostyuk, O. S. Zozulya, “Particle number fluctuations in the microcanonical ensemble,” Physical Review C, vol. 71, no. 5, p. 054904, 2005."
+      - "[4] V. V. Begun, M. I. Gorenstein, O. S. Zozulya, “Fluctuations in the canonical ensemble,” Physical Review C, vol. 72, no. 1, p. 014902, 2005."
+      - "[5] A. Keränen, F. Becattini, V. V. Begun, M. I. Gorenstein, O. S. Zozulya, “Particle number fluctuations in statistical model with exact charge conservation laws,” Journal of Physics G: Nuclear and Particle Physics, vol. 31, no. 6, p. S1095, 2005."
+      - "[6] V. V. Begun, M. I. Gorenstein, M. Hauer, V. P. Konchakovski, O. S. Zozulya, “Multiplicity fluctuations in hadron-resonance gas,” Physical Review C, vol. 74, no. 4, p. 044903, 2006."
+      - "[7] V. V. Begun, M. I. Gorenstein, A. P. Kostyuk, O. S. Zozulya, “Quantum gases in the grand microcanonical ensemble near the thermodynamic limit,” Journal of Physics G: Nuclear and Particle Physics, vol. 32, no. 7, p. 935, 2006."
+      - "[8] M. Haque, O. S. Zozulya, K. Schoutens, “Entanglement entropy in fermionic Laughlin states,” Physical Review Letters, vol. 98, no. 6, p. 060401, 2007."
+      - "[9] O. S. Zozulya, M. Haque, K. Schoutens, E. H. Rezayi, “Bipartite entanglement entropy in fractional quantum Hall states,” Physical Review B, vol. 76, no. 12, p. 125310, 2007."
+      - "[10] O. S. Zozulya, M. Haque, K. Schoutens, “Particle partitioning entanglement in itinerant many-particle systems,” Physical Review A, vol. 78, no. 4, p. 042326, 2008."
+      - "[11] O. S. Zozulya, M. Haque, N. Regnault, “Entanglement signatures of quantum Hall phase transitions,” Physical Review B, vol. 79, no. 4, p. 045409, 2009."
+      - "[12] M. Haque, O. S. Zozulya, K. Schoutens, “Entanglement between particle partitions in itinerant many-particle states,” Journal of Physics A: Mathematical and Theoretical, vol. 42, no. 50, p. 504012, 2009."
   - title: Conference
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "A. Boyarsky, O. Ruchayskiy, Z. Yang, **O. Zozulya**, M. Charlaganov, P. De Los Rios, “[From scientific papers to the scientific ontology: dynamical clustering of heterogeneous graphs and ontology crowdsourcing.](https://www.semanticscholar.org/paper/From-scientific-papers-to-the-scientific-ontology-%3A-Boyarsky-Ruchayskiy/29496f185a8eb4c39666fbe48c2e429c927b25c9)” *2nd Workshop on Discovering Meaning on the go in Large, Heterogenous Data, ISWC*, 2012."
+  - title: PhD Thesis
+    ref:
+      - "O. S. Zozulya, “Entanglement and order in many-body systems,” PhD dissertation, Universiteit van Amsterdam, 2011."

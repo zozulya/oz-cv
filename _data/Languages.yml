@@ -2,6 +2,9 @@ subject: Languages
 listing-order: 7
 icon: "/assets/img/globe.svg"
 contents:
-  - title: "Dutch ('*Native*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
-  - title: "German: <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
-  - title: "English: <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●◐○</span>"
+  - title: "English ('*Fluent*'): <span style='color: cornflowerblue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
+  - title: "German ('*B2/C1*'): <span style='color: indianred; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
+  - title: "Dutch ('*B2*'): <span style='color: orange; margin: auto 8px; font-family: cursive;'>●●●○○</span>"
+  - title: "Ukrainian ('*Native*'): <span style='color: skyblue; margin: auto 8px; font-family: cursive;'>●●●●○</span>"
+  - title: "Russian ('*Native*'): <span style='color: darkred; margin: auto 8px; font-family: cursive;'>●●●●●</span>"
+  - title: "Spanish ('*A2*'): <span style='color: goldenrod; margin: auto 8px; font-family: cursive;'>●○○○○</span>"

@@ -1,18 +1,17 @@
 subject: Education
-listing-order: 1
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: University of Amsterdam, PhD in Theoretical Phyiscs.
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - Thesis title - Entanglement and Order in Many-Body Physics.
+      - Exploration of the role of entanglement measures to charaterize order in varous system, especially with topological order.
+    date: Sep. 2005 - Sep. 2009
+  - title: Utrecht University, Masters in Theoretical Physics.
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Thesis title: 
+    grade: "**GPA**: `8.5/10`"
+    date: Feb. 2004 - Jun. 2006
+  - title: National Kyiv University, Bachelor in Physics
+    grade: "**GPA**: `4.9/5.0`"
+    date: Sep. 1999 - Jun. 2003

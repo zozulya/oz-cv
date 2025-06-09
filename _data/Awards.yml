@@ -2,12 +2,9 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: FIBO Innovation Award
+    description: As a part of the Pixformance team. [More details.](https://www.fitness-gaming.com/news/fitness-and-sports/pixformance-wins-fibo-innovation-award-2014.html)
+    date: Mar 2014
+  - title: Gold Medal
+    description: International Physics Olympiad
+    date: Jul 1999
