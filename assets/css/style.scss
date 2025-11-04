@@ -70,6 +70,7 @@ a { text-decoration:none; }
     .profile-zone .profile-img {
         width:192px;
         aspect-ratio:1.0;
+        object-fit: cover;
         position: absolute;
         top:50%;
         left:50%;
