@@ -1,21 +1,24 @@
-subject: Projects
+subject: Projects highligts
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Pixformance stations ([https://www.pixformance.com](https://www.pixformance.com/en/))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Development QR code based login system
+      - Automatic camera calibration based on SIFT points
+      - Video loop generation based on frame similarity detection
+      - "Technology Used: C++, Python, OpenCV, Direct2D, Kinect, C#"
+    image: "![](https://i.ibb.co/d4qqpQp9/logo-pixformance.png)"
+  - title: "Zalando ([https://zalando.com](https://zalando.com))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Creation, deployment and maintenaace of the frist ML models in production to personalize Zalando's homepage.
+      - Running and evaluating A/B tests to measure impact of ML models on user metrics.
+      - Model selection,feature engineering and significance testing.
+      - "Technology Used: Spark, Scala, AWS EMR, Python, Sckit-learn, Pandas, DynamoDB, Docker"
+    image: "![](https://i.ibb.co/r2hkKDc1/zalando-4096.png)"
+  - title: "Google Assitant ([https://assistant.google.com](https://assistant.google.com/))"
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Rollout of personalized content ranking on Nest Hub devices.
+      - Development and deployment of ML based ranking of correction suggestions in Google Assistant querries.
+      - Data piplines to create corpus and monitoring metrics for on-device speech recognition personalization.
+    image: "![](https://i.ibb.co/dwDtXRjH/google-assistant-icon-logo-symbol-free-png.webp)"

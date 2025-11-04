@@ -25,10 +25,26 @@ contents:
   - title: EPFL
     role: Postdoctoral Research Engineer
     description:
-      - Research and implementation of algorithms in machine learning, natural language processing, using semantic databases for ScienceWISE.info project.
+      - Research and implementation of algorithms in machine learning, natural language processing, using semantic databases for [ScienceWISE.info](https://link.springer.com/content/pdf/10.1007/978-3-662-46641-4_33.pdf) project.
     date: Jan 2012 - Mar 2013
   - title: Crystalix GmbH
     role: Research Engineer
     description:
       - Research and development of algorithms for 3D stereo-reconstruction of human faces.
     date: Feb 2011 - Jan 2012
+  - title: Institute of theoretical physcis, University of Amsterdam
+    role: PhD researecher
+    description:
+      - teaching assistnat in Quantum Mechenics and Statistical Mechanics courses.
+      - researh in theoretical physics, primarily in quantum entanglement and topological order.
+    date: Sep. 2005 - Sep. 2009
+  - title: Bogolyubov Institute for Theoretical Physics
+    role: Research engineer, part-time 
+    description:
+      - Research in high energy partricle physics, statistical description of nucleus-nucleus collisions.
+    date: Sep. 2001 - Aug. 2003
+  - title: Ukrainian Physics and Mathematics Lyceum
+    role: Physics teacher, part-time
+    description:
+       - Teaching high-school olympiad level physics; member of the jury of the Ukrainian Physics Olympiad.
+    date: Sep. 1999 - Jun. 2003 
